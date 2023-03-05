@@ -169,11 +169,11 @@
 		<h3>{product.title}</h3>
 		<span > Stokta {product.adet} tane {product.title} bulunmaktadır! </span>
 		<button disabled={!product.adet} on:click={() => SepeteEkle(product.id,sepet)}>Sepete Ekle</button>
-		<!-- Disabled Özelliği ile ürün sayısı 0 olduğunda button inaktif olur. 
+		<!-- Disabled Özelliği ile ürün sayısı 0 olduğunda button inaktif olur. -->
 		<hr><hr>
 	</div>
 	
-{/each} -->
+{/each} 
 
 
 
