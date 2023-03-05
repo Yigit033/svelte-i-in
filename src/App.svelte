@@ -6,7 +6,7 @@
 	
 	
 	
-					 PROJE TASK MANAGER
+					<!-- PROJE TASK MANAGER
 					İLK ÖNCE VERDİĞİ GİTHUB RESOURCE YI İNCELE NELER YAPTIĞINA BAK SONRA KENDİN
 				!!! ==>>>   BİRŞEYLER DENEMEYE ÇALIŞ 
 			SONRASINDA ZATEN VİDEODAN YARDIM ALIRSIN-->
@@ -79,8 +79,8 @@
 
 
 
-						 Class Yapısı -->
-
+						 <!--Class Yapısı -->
+<!--
 
 <script>
 	let tab = "MeyveListesi"
@@ -139,7 +139,7 @@
 
 			<!-- Store Örneği -->
 
-<!-- 
+
 <script>
 	import Header from "./components/header2.svelte"
     import { products, sepet } from "./components/store.js";
