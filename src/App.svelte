@@ -161,6 +161,11 @@
 </script>
 
 
+<h1>
+	ALısveriş By YiğitStore
+</h1>
+
+
 <Header />
  <br><br><br>
 {#each $products as product (product) }
