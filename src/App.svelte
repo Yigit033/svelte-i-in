@@ -6,7 +6,7 @@
 	
 	
 	
-					<!-- PROJE TASK MANAGER
+					 PROJE TASK MANAGER
 					İLK ÖNCE VERDİĞİ GİTHUB RESOURCE YI İNCELE NELER YAPTIĞINA BAK SONRA KENDİN
 				!!! ==>>>   BİRŞEYLER DENEMEYE ÇALIŞ 
 			SONRASINDA ZATEN VİDEODAN YARDIM ALIRSIN-->
@@ -79,16 +79,15 @@
 
 
 
-						<!-- Class Yapısı -->
+						 Class Yapısı -->
 
-<!-- 
+
 <script>
 	let tab = "MeyveListesi"
 	let MeyveListesi = ["elma","armut", "kiraz", "muz"]
 	let SebzeListesi = ["ıspanak","marul", "domates", "havuç"]
 
 </script>
-
 
 
 <div>
@@ -127,7 +126,7 @@
 		padding-left: 5px;
 		border: 2px solid;
 	}
-</style> -->
+</style>
 
 
 
